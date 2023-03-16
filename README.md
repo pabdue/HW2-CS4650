@@ -16,9 +16,9 @@ Also, everything you need is at https://bit.ly/beyondcode-markdown.
 |   Facebook Messenger      |          ![](https://screenshots.dgtcdn.net/images/t_app-logo-l,f_auto,dpr_auto/p/c2987150-9b64-11e6-baaa-00163ec9f5fa/4020520298/facebook-messenger-logo.jpg)         |
 
 - Winners :trophy:
-	i. Github
-	ii. Stackoverflow
-	iii. Discord 
+	1. Github
+	2. Stackoverflow
+	3. Discord 
 - Honorable Mention :+1:
 	- Slack
 	- Facebook Messenger
