@@ -1,5 +1,6 @@
 # Markdown Challenge
 ![markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+
 Welcome to the https://beyondcodebootcamp.com Markdown Challenge!
 Your mission, if you choose to accept it is to recreate *this* document, exactly, using only Markdown and gist.github.com.
 ***Hint***: Read this *whole* thing first. Then create it **one** line at a time.
